@@ -1,0 +1,12 @@
+package launch;
+
+import org.openqa.selenium.WebDriver;
+
+public class cheomw {
+public static WebDriver driver;
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "D:\\GAURAV\\ECLIPSE\\NWQ\\src\\chromedriver.exe");
+		 driver=new ChromeDriver();
+	}
+
+}

@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author PCP
+ *
+ */
+module NWQ {
+	requires jakarta.activation;
+}
